@@ -1,7 +1,7 @@
 # Hi there, I'm Nathanael 
 
 ## About Me
-I'm Nathanael, a 19-year-old junior fullstack developer from Brazil. I have a passion for creating dynamic and responsive web applications. My goal is to work remotely for companies around the world, bringing my expertise and enthusiasm to international projects.
+I'm Nathanael 19-year-old, i'm junior fullstack developer from Brazil. I have a passion for creating dynamic and responsive web applications. My goal is to work remotely for companies around the world, bringing my expertise and enthusiasm to international projects.
 
 ## Skills
 - **Languages:** HTML, CSS, JAVASCRIPT, PHP, MySQL, APIs, AJAX, NodeJS
