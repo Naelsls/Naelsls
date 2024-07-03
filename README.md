@@ -14,7 +14,7 @@ I'm Nathanael, a 19-year-old junior fullstack developer from Brazil. I have a pa
 - Spanish   level A1
 - German    level A1
 - Japoneses level A1
-- Frances   level A1
+- French    level A1
 
 ## Goals
 - To work remotely with companies outside Brazil
