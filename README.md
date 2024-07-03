@@ -1,4 +1,4 @@
-# Hi there, I'm Nathanael 👋
+# Hi there, I'm Nathanael 
 
 ## About Me
 I'm Nathanael, a 19-year-old junior fullstack developer from Brazil. I have a passion for creating dynamic and responsive web applications. My goal is to work remotely for companies around the world, bringing my expertise and enthusiasm to international projects.
@@ -9,14 +9,6 @@ I'm Nathanael, a 19-year-old junior fullstack developer from Brazil. I have a pa
 - **Tools:** [List any tools you are proficient with]
 - **Other:** [Any other relevant skills]
 
-## Projects
-### [Project Name]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** HTML, CSS, JavaScript, PHP
-
-### [Project Name]
-- **Description:** [Brief description of the project]
-- **Technologies Used:** HTML, CSS, JavaScript, PHP
 
 ## Goals
 - To work remotely with companies outside Brazil
@@ -24,9 +16,8 @@ I'm Nathanael, a 19-year-old junior fullstack developer from Brazil. I have a pa
 - To contribute to exciting and innovative projects
 
 ## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** uso.com.net@gmail.com
+- **LinkedIn:** Naelsls
 
 Feel free to reach out if you have any questions or if you're interested in working together!
 
