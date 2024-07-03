@@ -5,7 +5,7 @@ I'm Nathanael, a 19-year-old junior fullstack developer from Brazil. I have a pa
 
 ## Skills
 - **Languages:** HTML, CSS, JAVASCRIPT, PHP, MySQL, APIs, AJAX, NodeJS
-- **Frameworks/Libraries:** React, Angula, Tyscript
+- **Frameworks/Libraries:** REACT, ANGULA, TYPESCRIPT
 - **Tools:** FIGMA
 
 ## Languages i'm speak
