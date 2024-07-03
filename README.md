@@ -8,6 +8,14 @@ I'm Nathanael, a 19-year-old junior fullstack developer from Brazil. I have a pa
 - **Frameworks/Libraries:** REACT, ANGULA, TYPESCRIPT
 - **Tools:** FIGMA
 
+## Languages i'm speak
+- English   level A2/B1
+- Italian   level A1
+- Spanish   level A1
+- German    level A1
+- Japoneses level A1
+- frances   level A1
+
 ## Goals
 - To work remotely with companies outside Brazil
 - To continuously improve my skills and stay updated with the latest technologies
